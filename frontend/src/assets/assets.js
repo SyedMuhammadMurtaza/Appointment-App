@@ -322,4 +322,19 @@ export const doctors = [
             line2: 'Circle, Ring Road, London'
         }
     },
+    {
+        _id: 'doc17',
+        name: 'Test Doct',
+        image: doc15,
+        speciality: 'Gastroenterologist',
+        degree:'No Degree',
+        experience: '100 years',
+        about:'No Data',
+        fees: '0PKR',
+        address: {
+            line1: '37th Cross, Richmond',
+            line2: 'Circle, Ring Road, London'
+        }
+
+    },
 ]
